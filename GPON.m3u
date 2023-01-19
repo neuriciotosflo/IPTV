@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="CANALES DEMO GPON",CANAL-1 1080P
-http://192.168.50.5/0.flv
+rtsp://192.168.50.5/0
 #EXTINF:0 tvg-id="ext" group-title="CANALES DEMO GPON",CANAL-2 1080P
 udp://@225.1.1.181:5181
